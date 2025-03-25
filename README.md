@@ -9,11 +9,15 @@
 ## 2024  
 
 ### LeHack 2024  
+
 [Supply Chain Attack : le cas du Registre Privé Docker](https://github.com/Orange-Cyberdefense/conferences/tree/main/2024/LeHack/2024-LeHack-Supply_Chain_Attack_Le_Cas_Du_Registre_Prive_Docker-GeoffreySauvageotBerland_OrangeCyberdefense.pdf) by Geoffrey Sauvageot Berland
 
-
 ### Hack.lu 2024
+
 [Trying Gateway Bugs - Breaking industrial protocol translation devices before the research begins](https://github.com/Orange-Cyberdefense/conferences/tree/main/2024/Hack.lu/2024-Hack.lu-Trying_Gateway_Bugs-ClaireVacherot-OrangeCyberdefense.pdf) by Claire Vacherot
+
+### SecSea 2024
+[Drone2Pwn](https://github.com/Orange-Cyberdefense/conferences/tree/main/2024/SecSea/2024-SecSea-Drone2Pwn-NicolasBourras-OrangeCyberdefense.pdf) by Nicolas Bourras
 
 ## 2023  
 
