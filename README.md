@@ -34,6 +34,14 @@
 
 [From flat networks to locked up domain with tiering models](https://github.com/Orange-Cyberdefense/conferences/blob/main/2025/UYBHYS/2025-UYBHYS-From_flat_networks_to_locked_up_domain_with_tiering_models-AurelienChalot-OrangeCyberdefense.pdf) by Aurelien Chalot  
 
+### Black Alps 2025  
+
+[Investigating an in-the-wild campaign using RCE in Craft CMS](https://github.com/Orange-Cyberdefense/conferences/blob/main/2025/BlackAlps/2025-blackalps-Investigating_an_in-the-wild_campaign_using_RCE_in_Craft_CMS-NicolasBourras-OrangeCyberdefense.pdf) by Nicolas Bourras  
+
+### GreHack 2025  
+
+[Channel Binding with MSSQL: A Deep Dive into TDS, NTLM and STARTTLS Madness](https://github.com/Orange-Cyberdefense/conferences/blob/main/2025/GreHack/2025-GreHack-Diving_into_MSSQL_madness-AurelienChalot-OrangeCyberdefense.pdf) by Aurelien Chalot  
+
 ## 2024  
 
 ### LeHack 2024  
