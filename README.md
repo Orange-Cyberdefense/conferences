@@ -2,6 +2,10 @@
 
 ## -- 2026 --  
 
+### Insomni'hack 2026   
+
+[Device Code Phishing is dead, long live new Azure AD attacks!](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/insomnihack/2026-insomnihack-Device_Code_Phishing_is_dead_long_live_new_Azure_AD_attacks-EliasIssa-OrangeCyberdefense) by Elias Issa
+
 ### Security Fest 2026   
 
 [The Never Implemented Story Of Penetration Tests On Video Surveillance_Networks ](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/securityFest/2026-SecurityFest-The_Never_Implemented_Story_Of_Penetration_Tests_On_Video_Surveillance_Networks-ClaireVacherot-OrangeCyberdefense.pdf) by Claire Vacherot   
