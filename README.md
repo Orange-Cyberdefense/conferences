@@ -1,6 +1,20 @@
 # Conferences
 
-## 2025  
+## -- 2026 --  
+
+### Security Fest 2026   
+
+[The Never Implemented Story Of Penetration Tests On Video Surveillance_Networks ](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/securityFest/2026-SecurityFest-The_Never_Implemented_Story_Of_Penetration_Tests_On_Video_Surveillance_Networks-ClaireVacherot-OrangeCyberdefense.pdf) by Claire Vacherot   
+
+### Sthack 2026
+
+[Abusing .NET Runtime Internals to Evade EDRs](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/sthack/2026-Sthack-Abusing_.NET_Runtime_Internals_to_Evade_EDRs-OssamaAit-ElMouddene-OrangeCyberdefense.pdf) by Ossama Ait-El Mouddene   
+
+### Troopers 2026   
+
+[Windows Deployment Service : An AD Blind Spot ?](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/troopers/2026-Troopers-Windows_Deployment_Service_An_AD_Blind_Spot-GeoffreySauvageotBerland_OrangeCyberdefense.pdf) by Geoffrey Sauvageot Berland
+
+## -- 2025 --  
 
 ### InsomniHack 2025  
 
@@ -42,7 +56,7 @@
 
 [Channel Binding with MSSQL: A Deep Dive into TDS, NTLM and STARTTLS Madness](https://github.com/Orange-Cyberdefense/conferences/blob/main/2025/GreHack/2025-GreHack-Diving_into_MSSQL_madness-AurelienChalot-OrangeCyberdefense.pdf) by Aurelien Chalot  
 
-## 2024  
+## -- 2024 --  
 
 ### LeHack 2024  
 
@@ -55,7 +69,7 @@
 ### SecSea 2024
 [Drone2Pwn](https://github.com/Orange-Cyberdefense/conferences/tree/main/2024/SecSea/2024-SecSea-Drone2Pwn-NicolasBourras-OrangeCyberdefense.pdf) by Nicolas Bourras
 
-## 2023  
+## -- 2023 --  
 
 ### LeHack 2023  
 
@@ -63,7 +77,7 @@
 
 [Du driver Windows à l’EDR - Introduction au fonctionnement des drivers Windows et EDR](https://github.com/Orange-Cyberdefense/conferences/tree/main/2023/LeHack/2023-LeHack-Du_driver_Windows_a_l_EDR-AurelienChalot-OrangeCyberdefense.pdf) by Aurelien Chalot
 
-## 2022  
+## -- 2022 --  
 
 ### LeHack 2022  
 
@@ -73,7 +87,7 @@
 
 [Building on top of Scapy: what could possibly go wrong?](https://github.com/Orange-Cyberdefense/conferences/tree/main/2022/PassTheSalt/2022-PassTheSalt-Building_on_top_of_Scapy-ClaireVacherot_JulienBedel-OrangeCyberdefense.pdf) by Claire Vacherot & Julien Bedel
 
-## 2021
+## -- 2021 --
 
 ### Defcon 2021
 
