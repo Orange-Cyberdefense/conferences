@@ -65,7 +65,9 @@
 
 ### LeHack 2024  
 
-[Supply Chain Attack : le cas du Registre Privé Docker](https://github.com/Orange-Cyberdefense/conferences/tree/main/2024/LeHack/2024-LeHack-Supply_Chain_Attack_Le_Cas_Du_Registre_Prive_Docker-GeoffreySauvageotBerland_OrangeCyberdefense.pdf) by Geoffrey Sauvageot Berland
+[Supply Chain Attack : le cas du Registre Privé Docker](https://github.com/Orange-Cyberdefense/conferences/tree/main/2024/LeHack/2024-LeHack-Supply_Chain_Attack_Le_Cas_Du_Registre_Prive_Docker-GeoffreySauvageotBerland_OrangeCyberdefense.pdf) by Geoffrey Sauvageot Berland   
+
+[The Red and the Blue: a tale of stealth and detection](https://github.com/Orange-Cyberdefense/conferences/tree/main/2024/LeHack/2024-LeHack-Red_and_Blue_tale_of_stealth_and_detection-EliasIssa-OrangeCyberdefense.pdf) by Elias Issa
 
 ### Hack.lu 2024
 
