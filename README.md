@@ -63,7 +63,7 @@
 
 ### Black Hat MEA 2025  
 
-[Channel Binding with MSSQL: A Deep Dive into TDS, NTLM and STARTTLS Madness](https://github.com/Orange-Cyberdefense/conferences/blob/main/2025/BlackHatMEA/2025-BlackHatMEA-IsYourVaultSafe-Uncovering_Immutable_Attacks_Targeting_Password_Managers-JulienBedel-OrangeCyberdefense.pdf) by Julien Bedel  
+[Is Your Vault Safe ? Uncovering Immutable Attacks Targeting Password Managers](https://github.com/Orange-Cyberdefense/conferences/blob/main/2025/BlackHatMEA/2025-BlackHatMEA-IsYourVaultSafe-Uncovering_Immutable_Attacks_Targeting_Password_Managers-JulienBedel-OrangeCyberdefense.pdf) by Julien Bedel  
 
 ## -- 2024 --  
 
