@@ -6,7 +6,6 @@
 
 [Device Code Phishing is dead, long live new Azure AD attacks!](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/insomniHack/2026-insomnihack-Device_Code_Phishing_is_dead_long_live_new_Azure_AD_attacks-EliasIssa-OrangeCyberdefense.pdf) by Elias Issa
 
-
 ### Security Fest 2026   
 
 [The Never Implemented Story Of Penetration Tests On Video Surveillance_Networks ](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/securityFest/2026-SecurityFest-The_Never_Implemented_Story_Of_Penetration_Tests_On_Video_Surveillance_Networks-ClaireVacherot-OrangeCyberdefense.pdf) by Claire Vacherot   
@@ -14,6 +13,8 @@
 ### Sthack 2026
 
 [Abusing .NET Runtime Internals to Evade EDRs](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/sthack/2026-Sthack-Abusing_.NET_Runtime_Internals_to_Evade_EDRs-OssamaAit-ElMouddene-OrangeCyberdefense.pdf) by Ossama Ait-El Mouddene   
+
+[Red Team : 20 missions plus tard](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/sthack/2026-Sthack-Red_Team_20_missions_plus_tard-Cyril_Servieres-OrangeCyberdefense.pdf) by Cyril Servieres   
 
 ### Troopers 2026   
 
