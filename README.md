@@ -4,7 +4,7 @@
 
 ### - RomHack   
 
-[Stop Injecting, Start Blending: A KISS Approach to Malware Development](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/romhack/2026-RomHack-stop_Injecting_Start_Blending_MALDEV-JulienBedel-OrangeCyberdefense.pdf) by Julien Bedel   
+[Stop Injecting, Start Blending: A KISS Approach to Malware Development](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/romHack/2026-RomHack-stop_Injecting_Start_Blending_MALDEV-JulienBedel-OrangeCyberdefense.pdf) by Julien Bedel   
 
 ### - Insomni'hack    
 
