@@ -2,6 +2,10 @@
 
 ## -- 2026 --  
 
+### - Hackfest   
+
+[Reconnaissance Active Directory depuis Linux - LDAP n'est pas la seule porte](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/hackfest/2026-hackfest-Reconnaissance_AD_depuis_Linux-BebeJoelHien-HocineMahtout-OrangeCyberdefense.pdf) by Bebe Joel Hien (with Hocine Mahtout from CDC)   
+
 ### - RomHack   
 
 [Stop Injecting, Start Blending: A KISS Approach to Malware Development](https://github.com/Orange-Cyberdefense/conferences/blob/main/2026/romHack/2026-RomHack-stop_Injecting_Start_Blending_MALDEV-JulienBedel-OrangeCyberdefense.pdf) by Julien Bedel   
